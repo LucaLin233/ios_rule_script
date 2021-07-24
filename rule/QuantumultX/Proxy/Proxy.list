@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-24 02:07:22
+# UPDATED: 2021-07-25 02:06:41
 # HOST: 46
-# HOST-SUFFIX: 33446
+# HOST-SUFFIX: 33449
 # USER-AGENT: 11
 # HOST-KEYWORD: 29
 # IP-CIDR: 88
 # IP6-CIDR: 3
-# TOTAL: 33623
+# TOTAL: 33626
 HOST,amp.akamaized.net,Proxy
 HOST,apple.com.akadns.net,Proxy
 HOST,assets-priconne-redive-us.akamaized.net,Proxy
@@ -32796,11 +32796,14 @@ HOST-SUFFIX,yamigama.com,Proxy
 HOST-SUFFIX,yammer.com,Proxy
 HOST-SUFFIX,yande.re,Proxy
 HOST-SUFFIX,yandex,Proxy
+HOST-SUFFIX,yandex.aero,Proxy
 HOST-SUFFIX,yandex.com,Proxy
 HOST-SUFFIX,yandex.ee,Proxy
+HOST-SUFFIX,yandex.jobs,Proxy
 HOST-SUFFIX,yandex.kg,Proxy
 HOST-SUFFIX,yandex.lv,Proxy
 HOST-SUFFIX,yandex.net,Proxy
+HOST-SUFFIX,yandex.org,Proxy
 HOST-SUFFIX,yandexcloud.net,Proxy
 HOST-SUFFIX,yanghengjun.com,Proxy
 HOST-SUFFIX,yangjianli.com,Proxy

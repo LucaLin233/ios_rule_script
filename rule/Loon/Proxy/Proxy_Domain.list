@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-24 02:07:22
+# UPDATED: 2021-07-25 02:06:41
 # DOMAIN: 46
-# DOMAIN-SUFFIX: 33446
+# DOMAIN-SUFFIX: 33449
 # USER-AGENT: 11
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 33623
+# TOTAL: 33626
 amp.akamaized.net
 apple.com.akadns.net
 assets-priconne-redive-us.akamaized.net
@@ -32796,11 +32796,14 @@ www-cdn.icloud.com.akadns.net
 .yammer.com
 .yande.re
 .yandex
+.yandex.aero
 .yandex.com
 .yandex.ee
+.yandex.jobs
 .yandex.kg
 .yandex.lv
 .yandex.net
+.yandex.org
 .yandexcloud.net
 .yanghengjun.com
 .yangjianli.com

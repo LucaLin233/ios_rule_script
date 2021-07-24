@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-24 02:07:22
+# UPDATED: 2021-07-25 02:06:41
 # HOST: 50
-# HOST-SUFFIX: 33431
+# HOST-SUFFIX: 33434
 # USER-AGENT: 48
 # HOST-KEYWORD: 41
 # IP-CIDR: 128
 # IP6-CIDR: 3
-# TOTAL: 33701
+# TOTAL: 33704
 HOST,amp.akamaized.net,Global
 HOST,apple.com.akadns.net,Global
 HOST,assets-priconne-redive-us.akamaized.net,Global
@@ -32786,11 +32786,14 @@ HOST-SUFFIX,yamigama.com,Global
 HOST-SUFFIX,yammer.com,Global
 HOST-SUFFIX,yande.re,Global
 HOST-SUFFIX,yandex,Global
+HOST-SUFFIX,yandex.aero,Global
 HOST-SUFFIX,yandex.com,Global
 HOST-SUFFIX,yandex.ee,Global
+HOST-SUFFIX,yandex.jobs,Global
 HOST-SUFFIX,yandex.kg,Global
 HOST-SUFFIX,yandex.lv,Global
 HOST-SUFFIX,yandex.net,Global
+HOST-SUFFIX,yandex.org,Global
 HOST-SUFFIX,yandex.ru,Global
 HOST-SUFFIX,yandexcloud.net,Global
 HOST-SUFFIX,yanghengjun.com,Global
