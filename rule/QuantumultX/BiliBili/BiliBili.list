@@ -1,12 +1,12 @@
 # NAME: BiliBili
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-25 02:06:41
+# UPDATED: 2021-07-26 02:06:24
 # USER-AGENT: 3
 # HOST-SUFFIX: 46
-# HOST: 40
+# HOST: 43
 # IP-CIDR: 16
-# TOTAL: 105
+# TOTAL: 108
 HOST,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com,BiliBili
 HOST,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com,BiliBili
 HOST,0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com,BiliBili
@@ -21,6 +21,8 @@ HOST,112-81-125-43.dhost.00cdn.com,BiliBili
 HOST,113-219-145-1.ksyungslb.com,BiliBili
 HOST,114-236-92-129.ksyungslb.com,BiliBili
 HOST,180-101-74-1.ksyungslb.com,BiliBili
+HOST,1gr3uomttgr31hcjo8yzdnco.ourdvsss.com,BiliBili
+HOST,1gr3uomttgr31hcjo8yzdnpy.ourdvsss.com,BiliBili
 HOST,1gr4uqmtt8y41hcjigazdqca.ourdvsss.com,BiliBili
 HOST,1gr4uqmtt8y41hcjigazdqce.ourdvsss.com,BiliBili
 HOST,1gr4uqmtt8y41hcjigazdqco.ourdvsss.com,BiliBili
@@ -28,6 +30,7 @@ HOST,1gr4uqmtt8y41hcjigazdqpo.ourdvsss.com,BiliBili
 HOST,1gr4uqmtt8y41hcjzgwzdkqe.ourdvsss.com,BiliBili
 HOST,1gr5dgmttgha1hcj38yzdcca.ourdvsss.com,BiliBili
 HOST,1gr5dgmttgha1hcj38yzdcco.ourdvsss.com,BiliBili
+HOST,1gr5dgmttgha1hcj38yzdkca.ourdvsss.com,BiliBili
 HOST,1gr5dgmttgha1hcj38yzdkco.ourdvsss.com,BiliBili
 HOST,1gr5dgmttgha1hcj38yzdkpe.ourdvsss.com,BiliBili
 HOST,1gr5dgmttgha1hcj38yzdkpy.ourdvsss.com,BiliBili

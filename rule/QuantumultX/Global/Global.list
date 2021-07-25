@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-25 02:06:41
+# UPDATED: 2021-07-26 02:06:24
 # HOST: 50
-# HOST-SUFFIX: 33434
+# HOST-SUFFIX: 33443
 # USER-AGENT: 48
 # HOST-KEYWORD: 41
 # IP-CIDR: 128
 # IP6-CIDR: 3
-# TOTAL: 33704
+# TOTAL: 33713
 HOST,amp.akamaized.net,Global
 HOST,apple.com.akadns.net,Global
 HOST,assets-priconne-redive-us.akamaized.net,Global
@@ -7557,6 +7557,8 @@ HOST-SUFFIX,cloudfront.net,Global
 HOST-SUFFIX,cloudfunctions.net,Global
 HOST-SUFFIX,cloudgarage.jp,Global
 HOST-SUFFIX,cloudhealthtech.com,Global
+HOST-SUFFIX,cloudimage.io,Global
+HOST-SUFFIX,cloudimg.io,Global
 HOST-SUFFIX,cloudinsights.com,Global
 HOST-SUFFIX,cloudlive.com,Global
 HOST-SUFFIX,cloudlock.com,Global
@@ -9926,6 +9928,9 @@ HOST-SUFFIX,emaw.com.br,Global
 HOST-SUFFIX,embed-cdn.com,Global
 HOST-SUFFIX,embeddedsw.org,Global
 HOST-SUFFIX,embedly.com,Global
+HOST-SUFFIX,embl.it,Global
+HOST-SUFFIX,embl.org,Global
+HOST-SUFFIX,emblstatic.net,Global
 HOST-SUFFIX,embr.in,Global
 HOST-SUFFIX,embs.org,Global
 HOST-SUFFIX,emcs.org,Global
@@ -15762,6 +15767,8 @@ HOST-SUFFIX,ka-wai.com,Global
 HOST-SUFFIX,kaboodle.com,Global
 HOST-SUFFIX,kadinlarkulubu.com,Global
 HOST-SUFFIX,kadokawa.co.jp,Global
+HOST-SUFFIX,kaggle.com,Global
+HOST-SUFFIX,kaggle.io,Global
 HOST-SUFFIX,kagyu-sfla.org,Global
 HOST-SUFFIX,kagyu.org,Global
 HOST-SUFFIX,kagyu.org.nz,Global
@@ -22604,6 +22611,7 @@ HOST-SUFFIX,sca,Global
 HOST-SUFFIX,scala-lang.org,Global
 HOST-SUFFIX,scala-sbt.org,Global
 HOST-SUFFIX,scalatube.com,Global
+HOST-SUFFIX,scaleflex.com,Global
 HOST-SUFFIX,scamadviser.com,Global
 HOST-SUFFIX,scasino.com,Global
 HOST-SUFFIX,scb,Global
@@ -22763,6 +22771,7 @@ HOST-SUFFIX,sell.ssvps.site,Global
 HOST-SUFFIX,sellclassics.com,Global
 HOST-SUFFIX,sellercommunity.com,Global
 HOST-SUFFIX,sellsyourhome.org,Global
+HOST-SUFFIX,semanticscholar.org,Global
 HOST-SUFFIX,seminars.tca.org.tw,Global
 HOST-SUFFIX,semprot.com,Global
 HOST-SUFFIX,send6.com,Global

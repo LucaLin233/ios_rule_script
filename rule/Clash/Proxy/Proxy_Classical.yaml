@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-25 02:06:42
+# UPDATED: 2021-07-26 02:06:25
 # DOMAIN: 46
-# DOMAIN-SUFFIX: 33449
+# DOMAIN-SUFFIX: 33458
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 33615
+# TOTAL: 33624
 payload:
   - DOMAIN,amp.akamaized.net
   - DOMAIN,apple.com.akadns.net
@@ -7557,6 +7557,8 @@ payload:
   - DOMAIN-SUFFIX,cloudfunctions.net
   - DOMAIN-SUFFIX,cloudgarage.jp
   - DOMAIN-SUFFIX,cloudhealthtech.com
+  - DOMAIN-SUFFIX,cloudimage.io
+  - DOMAIN-SUFFIX,cloudimg.io
   - DOMAIN-SUFFIX,cloudinsights.com
   - DOMAIN-SUFFIX,cloudlive.com
   - DOMAIN-SUFFIX,cloudlock.com
@@ -9925,6 +9927,9 @@ payload:
   - DOMAIN-SUFFIX,embed-cdn.com
   - DOMAIN-SUFFIX,embeddedsw.org
   - DOMAIN-SUFFIX,embedly.com
+  - DOMAIN-SUFFIX,embl.it
+  - DOMAIN-SUFFIX,embl.org
+  - DOMAIN-SUFFIX,emblstatic.net
   - DOMAIN-SUFFIX,embr.in
   - DOMAIN-SUFFIX,embs.org
   - DOMAIN-SUFFIX,emcs.org
@@ -15761,6 +15766,8 @@ payload:
   - DOMAIN-SUFFIX,kaboodle.com
   - DOMAIN-SUFFIX,kadinlarkulubu.com
   - DOMAIN-SUFFIX,kadokawa.co.jp
+  - DOMAIN-SUFFIX,kaggle.com
+  - DOMAIN-SUFFIX,kaggle.io
   - DOMAIN-SUFFIX,kagyu-sfla.org
   - DOMAIN-SUFFIX,kagyu.org
   - DOMAIN-SUFFIX,kagyu.org.nz
@@ -22603,6 +22610,7 @@ payload:
   - DOMAIN-SUFFIX,scala-lang.org
   - DOMAIN-SUFFIX,scala-sbt.org
   - DOMAIN-SUFFIX,scalatube.com
+  - DOMAIN-SUFFIX,scaleflex.com
   - DOMAIN-SUFFIX,scamadviser.com
   - DOMAIN-SUFFIX,scasino.com
   - DOMAIN-SUFFIX,scb
@@ -22763,6 +22771,7 @@ payload:
   - DOMAIN-SUFFIX,sellclassics.com
   - DOMAIN-SUFFIX,sellercommunity.com
   - DOMAIN-SUFFIX,sellsyourhome.org
+  - DOMAIN-SUFFIX,semanticscholar.org
   - DOMAIN-SUFFIX,seminars.tca.org.tw
   - DOMAIN-SUFFIX,semprot.com
   - DOMAIN-SUFFIX,send6.com

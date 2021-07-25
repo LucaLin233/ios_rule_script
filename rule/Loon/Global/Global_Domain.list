@@ -1,16 +1,16 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-25 02:06:41
+# UPDATED: 2021-07-26 02:06:25
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 50
-# DOMAIN-SUFFIX: 33434
+# DOMAIN-SUFFIX: 33443
 # USER-AGENT: 48
 # DOMAIN-KEYWORD: 41
 # IP-CIDR: 128
 # IP-CIDR6: 3
 # URL-REGEX: 1
-# TOTAL: 33705
+# TOTAL: 33714
 amp.akamaized.net
 apple.com.akadns.net
 assets-priconne-redive-us.akamaized.net
@@ -7559,6 +7559,8 @@ www.icloud.com
 .cloudfunctions.net
 .cloudgarage.jp
 .cloudhealthtech.com
+.cloudimage.io
+.cloudimg.io
 .cloudinsights.com
 .cloudlive.com
 .cloudlock.com
@@ -9928,6 +9930,9 @@ www.icloud.com
 .embed-cdn.com
 .embeddedsw.org
 .embedly.com
+.embl.it
+.embl.org
+.emblstatic.net
 .embr.in
 .embs.org
 .emcs.org
@@ -15764,6 +15769,8 @@ www.icloud.com
 .kaboodle.com
 .kadinlarkulubu.com
 .kadokawa.co.jp
+.kaggle.com
+.kaggle.io
 .kagyu-sfla.org
 .kagyu.org
 .kagyu.org.nz
@@ -22606,6 +22613,7 @@ www.icloud.com
 .scala-lang.org
 .scala-sbt.org
 .scalatube.com
+.scaleflex.com
 .scamadviser.com
 .scasino.com
 .scb
@@ -22765,6 +22773,7 @@ www.icloud.com
 .sellclassics.com
 .sellercommunity.com
 .sellsyourhome.org
+.semanticscholar.org
 .seminars.tca.org.tw
 .semprot.com
 .send6.com

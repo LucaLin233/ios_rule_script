@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-25 02:06:41
+# UPDATED: 2021-07-26 02:06:24
 # HOST: 46
-# HOST-SUFFIX: 33449
+# HOST-SUFFIX: 33458
 # USER-AGENT: 11
 # HOST-KEYWORD: 29
 # IP-CIDR: 88
 # IP6-CIDR: 3
-# TOTAL: 33626
+# TOTAL: 33635
 HOST,amp.akamaized.net,Proxy
 HOST,apple.com.akadns.net,Proxy
 HOST,assets-priconne-redive-us.akamaized.net,Proxy
@@ -7557,6 +7557,8 @@ HOST-SUFFIX,cloudfront.net,Proxy
 HOST-SUFFIX,cloudfunctions.net,Proxy
 HOST-SUFFIX,cloudgarage.jp,Proxy
 HOST-SUFFIX,cloudhealthtech.com,Proxy
+HOST-SUFFIX,cloudimage.io,Proxy
+HOST-SUFFIX,cloudimg.io,Proxy
 HOST-SUFFIX,cloudinsights.com,Proxy
 HOST-SUFFIX,cloudlive.com,Proxy
 HOST-SUFFIX,cloudlock.com,Proxy
@@ -9925,6 +9927,9 @@ HOST-SUFFIX,emaw.com.br,Proxy
 HOST-SUFFIX,embed-cdn.com,Proxy
 HOST-SUFFIX,embeddedsw.org,Proxy
 HOST-SUFFIX,embedly.com,Proxy
+HOST-SUFFIX,embl.it,Proxy
+HOST-SUFFIX,embl.org,Proxy
+HOST-SUFFIX,emblstatic.net,Proxy
 HOST-SUFFIX,embr.in,Proxy
 HOST-SUFFIX,embs.org,Proxy
 HOST-SUFFIX,emcs.org,Proxy
@@ -15761,6 +15766,8 @@ HOST-SUFFIX,ka-wai.com,Proxy
 HOST-SUFFIX,kaboodle.com,Proxy
 HOST-SUFFIX,kadinlarkulubu.com,Proxy
 HOST-SUFFIX,kadokawa.co.jp,Proxy
+HOST-SUFFIX,kaggle.com,Proxy
+HOST-SUFFIX,kaggle.io,Proxy
 HOST-SUFFIX,kagyu-sfla.org,Proxy
 HOST-SUFFIX,kagyu.org,Proxy
 HOST-SUFFIX,kagyu.org.nz,Proxy
@@ -22603,6 +22610,7 @@ HOST-SUFFIX,sca,Proxy
 HOST-SUFFIX,scala-lang.org,Proxy
 HOST-SUFFIX,scala-sbt.org,Proxy
 HOST-SUFFIX,scalatube.com,Proxy
+HOST-SUFFIX,scaleflex.com,Proxy
 HOST-SUFFIX,scamadviser.com,Proxy
 HOST-SUFFIX,scasino.com,Proxy
 HOST-SUFFIX,scb,Proxy
@@ -22763,6 +22771,7 @@ HOST-SUFFIX,sell.ssvps.site,Proxy
 HOST-SUFFIX,sellclassics.com,Proxy
 HOST-SUFFIX,sellercommunity.com,Proxy
 HOST-SUFFIX,sellsyourhome.org,Proxy
+HOST-SUFFIX,semanticscholar.org,Proxy
 HOST-SUFFIX,seminars.tca.org.tw,Proxy
 HOST-SUFFIX,semprot.com,Proxy
 HOST-SUFFIX,send6.com,Proxy

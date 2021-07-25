@@ -1,13 +1,13 @@
 # NAME: ChinaMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-25 02:06:42
+# UPDATED: 2021-07-26 02:06:26
 # USER-AGENT: 29
 # DOMAIN-SUFFIX: 165
-# DOMAIN: 48
+# DOMAIN: 51
 # IP-CIDR: 35
 # DOMAIN-KEYWORD: 2
-# TOTAL: 279
+# TOTAL: 282
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com
@@ -22,6 +22,8 @@ DOMAIN,112-81-125-43.dhost.00cdn.com
 DOMAIN,113-219-145-1.ksyungslb.com
 DOMAIN,114-236-92-129.ksyungslb.com
 DOMAIN,180-101-74-1.ksyungslb.com
+DOMAIN,1gr3uomttgr31hcjo8yzdnco.ourdvsss.com
+DOMAIN,1gr3uomttgr31hcjo8yzdnpy.ourdvsss.com
 DOMAIN,1gr4uqmtt8y41hcjigazdqca.ourdvsss.com
 DOMAIN,1gr4uqmtt8y41hcjigazdqce.ourdvsss.com
 DOMAIN,1gr4uqmtt8y41hcjigazdqco.ourdvsss.com
@@ -29,6 +31,7 @@ DOMAIN,1gr4uqmtt8y41hcjigazdqpo.ourdvsss.com
 DOMAIN,1gr4uqmtt8y41hcjzgwzdkqe.ourdvsss.com
 DOMAIN,1gr5dgmttgha1hcj38yzdcca.ourdvsss.com
 DOMAIN,1gr5dgmttgha1hcj38yzdcco.ourdvsss.com
+DOMAIN,1gr5dgmttgha1hcj38yzdkca.ourdvsss.com
 DOMAIN,1gr5dgmttgha1hcj38yzdkco.ourdvsss.com
 DOMAIN,1gr5dgmttgha1hcj38yzdkpe.ourdvsss.com
 DOMAIN,1gr5dgmttgha1hcj38yzdkpy.ourdvsss.com

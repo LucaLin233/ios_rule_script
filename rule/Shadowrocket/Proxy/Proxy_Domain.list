@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-25 02:06:42
+# UPDATED: 2021-07-26 02:06:26
 # DOMAIN: 46
-# DOMAIN-SUFFIX: 33449
+# DOMAIN-SUFFIX: 33458
 # USER-AGENT: 11
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 3
-# TOTAL: 33538
+# TOTAL: 33547
 amp.akamaized.net
 apple.com.akadns.net
 assets-priconne-redive-us.akamaized.net
@@ -7556,6 +7556,8 @@ www-cdn.icloud.com.akadns.net
 .cloudfunctions.net
 .cloudgarage.jp
 .cloudhealthtech.com
+.cloudimage.io
+.cloudimg.io
 .cloudinsights.com
 .cloudlive.com
 .cloudlock.com
@@ -9924,6 +9926,9 @@ www-cdn.icloud.com.akadns.net
 .embed-cdn.com
 .embeddedsw.org
 .embedly.com
+.embl.it
+.embl.org
+.emblstatic.net
 .embr.in
 .embs.org
 .emcs.org
@@ -15760,6 +15765,8 @@ www-cdn.icloud.com.akadns.net
 .kaboodle.com
 .kadinlarkulubu.com
 .kadokawa.co.jp
+.kaggle.com
+.kaggle.io
 .kagyu-sfla.org
 .kagyu.org
 .kagyu.org.nz
@@ -22602,6 +22609,7 @@ www-cdn.icloud.com.akadns.net
 .scala-lang.org
 .scala-sbt.org
 .scalatube.com
+.scaleflex.com
 .scamadviser.com
 .scasino.com
 .scb
@@ -22762,6 +22770,7 @@ www-cdn.icloud.com.akadns.net
 .sellclassics.com
 .sellercommunity.com
 .sellsyourhome.org
+.semanticscholar.org
 .seminars.tca.org.tw
 .semprot.com
 .send6.com
