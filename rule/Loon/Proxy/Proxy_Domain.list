@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-26 02:06:25
+# UPDATED: 2021-07-27 02:06:41
 # DOMAIN: 46
-# DOMAIN-SUFFIX: 33458
+# DOMAIN-SUFFIX: 33460
 # USER-AGENT: 11
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 33635
+# TOTAL: 33637
 amp.akamaized.net
 apple.com.akadns.net
 assets-priconne-redive-us.akamaized.net
@@ -12311,6 +12311,7 @@ www-cdn.icloud.com.akadns.net
 .githubhackathon.com
 .githubpreview.dev
 .githubstatus.com
+.githubuniverse.com
 .githubusercontent.com
 .gitlab-static.net
 .gitlab.com
@@ -26247,6 +26248,7 @@ www-cdn.icloud.com.akadns.net
 .vacationbibleschool.com
 .vaginacontest.com
 .vagos.es
+.vagrantcloud.com
 .vagrantup.com
 .valeriavidela.cl
 .valeursactuelles.com

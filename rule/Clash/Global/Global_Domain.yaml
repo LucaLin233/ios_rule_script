@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-26 02:06:25
+# UPDATED: 2021-07-27 02:06:41
 # DOMAIN: 50
-# DOMAIN-SUFFIX: 33443
+# DOMAIN-SUFFIX: 33445
 # DOMAIN-KEYWORD: 41
 # IP-CIDR: 128
 # IP-CIDR6: 3
 # PROCESS-NAME: 1
-# TOTAL: 33666
+# TOTAL: 33668
 payload:
   - 'amp.akamaized.net'
   - 'apple.com.akadns.net'
@@ -12313,6 +12313,7 @@ payload:
   - '.githubhackathon.com'
   - '.githubpreview.dev'
   - '.githubstatus.com'
+  - '.githubuniverse.com'
   - '.githubusercontent.com'
   - '.gitlab-static.net'
   - '.gitlab.com'
@@ -26249,6 +26250,7 @@ payload:
   - '.vacationbibleschool.com'
   - '.vaginacontest.com'
   - '.vagos.es'
+  - '.vagrantcloud.com'
   - '.vagrantup.com'
   - '.valeriavidela.cl'
   - '.valeursactuelles.com'

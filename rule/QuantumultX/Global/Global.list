@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-26 02:06:24
+# UPDATED: 2021-07-27 02:06:41
 # HOST: 50
-# HOST-SUFFIX: 33443
+# HOST-SUFFIX: 33445
 # USER-AGENT: 48
 # HOST-KEYWORD: 41
 # IP-CIDR: 128
 # IP6-CIDR: 3
-# TOTAL: 33713
+# TOTAL: 33715
 HOST,amp.akamaized.net,Global
 HOST,apple.com.akadns.net,Global
 HOST,assets-priconne-redive-us.akamaized.net,Global
@@ -12312,6 +12312,7 @@ HOST-SUFFIX,githubassets.com,Global
 HOST-SUFFIX,githubhackathon.com,Global
 HOST-SUFFIX,githubpreview.dev,Global
 HOST-SUFFIX,githubstatus.com,Global
+HOST-SUFFIX,githubuniverse.com,Global
 HOST-SUFFIX,githubusercontent.com,Global
 HOST-SUFFIX,gitlab-static.net,Global
 HOST-SUFFIX,gitlab.com,Global
@@ -26248,6 +26249,7 @@ HOST-SUFFIX,vac-go.de,Global
 HOST-SUFFIX,vacationbibleschool.com,Global
 HOST-SUFFIX,vaginacontest.com,Global
 HOST-SUFFIX,vagos.es,Global
+HOST-SUFFIX,vagrantcloud.com,Global
 HOST-SUFFIX,vagrantup.com,Global
 HOST-SUFFIX,valeriavidela.cl,Global
 HOST-SUFFIX,valeursactuelles.com,Global
