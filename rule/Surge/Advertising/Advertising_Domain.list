@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-27 02:06:40
+# UPDATED: 2021-07-28 02:06:36
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 20667
+# DOMAIN: 20660
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 49486
 # IP-CIDR: 241
 # IP-CIDR6: 1
 # URL-REGEX: 301
-# TOTAL: 70784
+# TOTAL: 70777
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -1685,7 +1685,6 @@ ads.mcafee.com
 ads.mdchoice.com
 ads.mediamayhemcorp.com
 ads.mediaodyssey.com
-ads.mediaturf.net
 ads.mediatwo.com
 ads.mefeedia.com
 ads.megaproxy.com
@@ -2130,7 +2129,6 @@ adserver.gameparty.net
 adserver.goforandroid.com
 adserver.gorillanation.com
 adserver.harktheherald.com
-adserver.hispanoclick.com
 adserver.hostinteractive.com
 adserver.ign.com
 adserver.infotiger.com
@@ -3669,6 +3667,7 @@ bannerexchange.com.au
 bannerexchange.troglod.com
 bannerhost.com
 bannerimage.com
+bannerlink.xxxtreams.com
 bannermall.com
 bannernetwork.net
 bannerpower.com
@@ -8127,7 +8126,6 @@ flash.360edu.com
 flash.sec.intl.miui.com
 flash.sec.miui.com
 flashcasino.com
-flashdigitals.com
 flashipods4free.com
 flashmediaportal.com
 flashsrealm.com
@@ -9556,7 +9554,6 @@ hariharaestates.com
 harmonyhollow.net
 harmonyorgsolutions.com
 harrenmedia.com
-harrow.aa978.com
 harshita-india.com
 harshwhispers.com
 hartwigplumbing.com
@@ -10589,7 +10586,6 @@ jacketspolska.cn
 jackieszarka.com
 jackskins.com
 jackthescribbler.com
-jacob.aa978.com
 jacobs-dach.com
 jaensspa.com
 jafiles.net
@@ -11736,7 +11732,6 @@ luckyhalo.info
 luckypure.info
 luckys-fashion.com
 luckysearch123.com
-luckyshine.info
 luckyson0660.com
 luckysuccess.info
 luckytidy.info
@@ -11780,6 +11775,7 @@ lzpv4rsmat.com
 lzrikate.com
 m-vali.cp31.ott.cibntv.net
 m.1234567.com.cn
+m.69o1c.cn
 m.88viet.com
 m.8live.com
 m.amtmobi.com
@@ -14214,6 +14210,7 @@ ping.ublock.org
 pingdom.act-on.com
 pingfore.soso.com
 pinggai5.caixin.com
+pingoli.info
 pinsuccess.com
 pinuppopup.com
 piou.kirkir.xyz
@@ -14368,7 +14365,6 @@ podcast.unbounce.com
 podzemi.myotis.info
 pogodowski.com
 pointofviewllc.com
-pointscodesfree.com
 pointstackers.com
 pokachi.net
 pokecoin.freeastuces.com
@@ -15035,7 +15031,6 @@ ramy76.aweafrica.com
 randki-sex.com
 randomstring.logorder.com
 randomwowkey.com
-rangekart.com
 rank-master.com
 rankinchemicaltech.com
 ranking.younetmedia.com
@@ -16524,6 +16519,7 @@ smilingwaves.com
 smillie.000webhostapp.com
 smitegemsgiveaway.com
 smithwick.net
+smmgigs.com
 smmknight.org
 smokersblogs.com
 smokersopinionpoll.com
@@ -16616,7 +16612,6 @@ softomix.com
 softonic.com
 softquotient.com
 softserve.8ch.net
-softtor.com
 software-accurate5.com
 software-archiv.com
 software-freee.com
@@ -16677,6 +16672,7 @@ sos.azadicdn.com
 soujoobafoo.com
 soulgaminghacks.com
 soulmemory.org
+soulsinsynch.com
 sourcelemon.com
 sourcengo.com
 sourmath.com
@@ -16705,7 +16701,6 @@ sparkcodes.com
 spasswelt.xyz
 spcwm.com
 spd.atdmt.speedera.net
-spechee.com
 special-alerts.com
 special-promo.com
 specialgifts4me.com
@@ -16843,7 +16838,6 @@ staging.elemental-id.com
 staging.novaonx.com
 staging.stats.miui.com
 stairgames.com
-stairliftstrue.com
 stakingscrew.com
 stakingslope.com
 stamplive.com
@@ -17042,7 +17036,6 @@ stats.kde.org
 stats.livingsocial.com
 stats.merriam-webster.com
 stats.metacount.com
-stats.millanusa.com
 stats.monohost.com
 stats.music.xiaomi.com
 stats.nextcloud.com

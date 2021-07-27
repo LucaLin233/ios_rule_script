@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-26 02:06:25
-# DOMAIN: 14518
+# UPDATED: 2021-07-28 02:06:37
+# DOMAIN: 14521
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12897
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27602
+# TOTAL: 27605
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -1206,7 +1206,6 @@ payload:
   - DOMAIN,adpressi.com
   - DOMAIN,adpron.com
   - DOMAIN,adprotected.com
-  - DOMAIN,adprotraffic.com
   - DOMAIN,adprovi.de
   - DOMAIN,adpushup.com
   - DOMAIN,adqic.com
@@ -2027,6 +2026,7 @@ payload:
   - DOMAIN,apexcdn.com
   - DOMAIN,apexstats.com
   - DOMAIN,apextag.com
+  - DOMAIN,apextwo.com
   - DOMAIN,aphookkensidah.pro
   - DOMAIN,aphycolourses.info
   - DOMAIN,api-ad.kajicam.com
@@ -2102,6 +2102,7 @@ payload:
   - DOMAIN,appboycdn.com
   - DOMAIN,appconsent.io
   - DOMAIN,appendad.com
+  - DOMAIN,applebarq.com
   - DOMAIN,appn.center
   - DOMAIN,apportium.com
   - DOMAIN,approp.pro
@@ -3139,6 +3140,7 @@ payload:
   - DOMAIN,canddi.com
   - DOMAIN,candid.zone
   - DOMAIN,canlytics.com
+  - DOMAIN,cannabislyric.com
   - DOMAIN,cannabispicture.com
   - DOMAIN,cannontwin.com
   - DOMAIN,canoeklix.com
@@ -3444,6 +3446,7 @@ payload:
   - DOMAIN,clickexperts.net
   - DOMAIN,clickferret.com
   - DOMAIN,clickfuse.com
+  - DOMAIN,clickganic.com
   - DOMAIN,clickgate.biz
   - DOMAIN,clickguard.com
   - DOMAIN,clickguardian.co.uk
@@ -3950,6 +3953,7 @@ payload:
   - DOMAIN,cryptomine.pro
   - DOMAIN,cryptonoter.com
   - DOMAIN,crystalmart.cn
+  - DOMAIN,cs-bailing.com.cn
   - DOMAIN,cs-feige.iqiyi.com
   - DOMAIN,cs-op.douyucdn.cn
   - DOMAIN,cs.celebbusters.com
@@ -6005,7 +6009,6 @@ payload:
   - DOMAIN,gostats.ro
   - DOMAIN,gostats.ru
   - DOMAIN,gostats.vn
-  - DOMAIN,gotagy.com
   - DOMAIN,gotchosen.com
   - DOMAIN,gotonav.com
   - DOMAIN,gotoplaymillion.com
@@ -6182,7 +6185,6 @@ payload:
   - DOMAIN,haosf.com
   - DOMAIN,haoyangmao.ltd
   - DOMAIN,haoyiwang.net
-  - DOMAIN,haoyoushuo.cn
   - DOMAIN,happer.info
   - DOMAIN,haprjb.com
   - DOMAIN,haptontnerota.info
@@ -6291,7 +6293,6 @@ payload:
   - DOMAIN,hijack.baidu.com
   - DOMAIN,hikvar.ru
   - DOMAIN,hilariouszinc.com
-  - DOMAIN,hillpl.com
   - DOMAIN,himediads.com
   - DOMAIN,himediadx.com
   - DOMAIN,himselves.com
@@ -7086,6 +7087,7 @@ payload:
   - DOMAIN,jjpnveujkk.com
   - DOMAIN,jl368.cn
   - DOMAIN,jm1.xiao89.com
+  - DOMAIN,jmait.cn
   - DOMAIN,jmogo.cn
   - DOMAIN,jmxphjxsxd.com
   - DOMAIN,jntmedia.cn
@@ -7342,6 +7344,7 @@ payload:
   - DOMAIN,kono-research.de
   - DOMAIN,kontagent.net
   - DOMAIN,kontextua.com
+  - DOMAIN,koocash.com
   - DOMAIN,koopei.com
   - DOMAIN,kopsil.com
   - DOMAIN,korexo.com
@@ -7763,7 +7766,6 @@ payload:
   - DOMAIN,luckyorange.net
   - DOMAIN,luckypure.info
   - DOMAIN,luckypushh.com
-  - DOMAIN,luckyshine.info
   - DOMAIN,luckysuccess.info
   - DOMAIN,luckytidy.info
   - DOMAIN,lucretius-ada.com
@@ -7828,6 +7830,7 @@ payload:
   - DOMAIN,m.20mao.com
   - DOMAIN,m.2l06k.cn
   - DOMAIN,m.5vst8h.cn
+  - DOMAIN,m.69o1c.cn
   - DOMAIN,m.89kvh.cn
   - DOMAIN,m.8of9hd.cn
   - DOMAIN,m.8t5xo.cn
@@ -7900,6 +7903,7 @@ payload:
   - DOMAIN,m2u.376710.com
   - DOMAIN,m32.media
   - DOMAIN,m4clicks.com
+  - DOMAIN,m5prod.net
   - DOMAIN,m6r.eu
   - DOMAIN,m73lae5cpmgrv38.com
   - DOMAIN,mabaya.com
@@ -8163,7 +8167,6 @@ payload:
   - DOMAIN,mercy.ga
   - DOMAIN,meried.co
   - DOMAIN,merlin.abc.go.com
-  - DOMAIN,merrymilkfoods.com
   - DOMAIN,meryjane.pro
   - DOMAIN,messengerpeople.com
   - DOMAIN,meta4-group.com
@@ -9548,11 +9551,11 @@ payload:
   - DOMAIN,pigra.csheaven.com
   - DOMAIN,pimpmypr.de
   - DOMAIN,pin.hpplay.cn
-  - DOMAIN,pinballpublishernetwork.com
   - DOMAIN,ping-fast.com
   - DOMAIN,pingagenow.com
   - DOMAIN,pingclock.net
   - DOMAIN,pingil.com
+  - DOMAIN,pingoli.info
   - DOMAIN,pingomatic.com
   - DOMAIN,pingtas.qq.com
   - DOMAIN,pinpinnet.net
@@ -10407,7 +10410,6 @@ payload:
   - DOMAIN,reate.info
   - DOMAIN,rebel.ai
   - DOMAIN,rec.quartic.pl
-  - DOMAIN,recentres.com
   - DOMAIN,reciteme.com
   - DOMAIN,reckinbuttiten.pro
   - DOMAIN,reclamus.com
@@ -13103,6 +13105,7 @@ payload:
   - DOMAIN,usercentrics.eu
   - DOMAIN,userdatatrust.com
   - DOMAIN,userdive.com
+  - DOMAIN,userdmp.com
   - DOMAIN,userlook.com
   - DOMAIN,userneeds.dk
   - DOMAIN,userreplay.net
@@ -13767,7 +13770,6 @@ payload:
   - DOMAIN,worldlogger.com
   - DOMAIN,worldpush.co
   - DOMAIN,worldsbestcams.com
-  - DOMAIN,worldsearchpro.com
   - DOMAIN,worldwidemailer.com
   - DOMAIN,worthathousandwords.com
   - DOMAIN,worthyadvertising.com
@@ -14494,6 +14496,7 @@ payload:
   - DOMAIN,zp265.com
   - DOMAIN,zpjkvuyqxu.com
   - DOMAIN,zpwqnicvzi.com
+  - DOMAIN,zq-hk.cn
   - DOMAIN,zq2.leixjun.com
   - DOMAIN,zqtk.net
   - DOMAIN,zqzuiomba.com

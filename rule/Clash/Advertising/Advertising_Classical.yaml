@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-27 02:06:41
-# DOMAIN: 20667
+# UPDATED: 2021-07-28 02:06:37
+# DOMAIN: 20660
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 49486
 # IP-CIDR: 241
 # IP-CIDR6: 1
-# TOTAL: 70483
+# TOTAL: 70476
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -1684,7 +1684,6 @@ payload:
   - DOMAIN,ads.mdchoice.com
   - DOMAIN,ads.mediamayhemcorp.com
   - DOMAIN,ads.mediaodyssey.com
-  - DOMAIN,ads.mediaturf.net
   - DOMAIN,ads.mediatwo.com
   - DOMAIN,ads.mefeedia.com
   - DOMAIN,ads.megaproxy.com
@@ -2129,7 +2128,6 @@ payload:
   - DOMAIN,adserver.goforandroid.com
   - DOMAIN,adserver.gorillanation.com
   - DOMAIN,adserver.harktheherald.com
-  - DOMAIN,adserver.hispanoclick.com
   - DOMAIN,adserver.hostinteractive.com
   - DOMAIN,adserver.ign.com
   - DOMAIN,adserver.infotiger.com
@@ -3668,6 +3666,7 @@ payload:
   - DOMAIN,bannerexchange.troglod.com
   - DOMAIN,bannerhost.com
   - DOMAIN,bannerimage.com
+  - DOMAIN,bannerlink.xxxtreams.com
   - DOMAIN,bannermall.com
   - DOMAIN,bannernetwork.net
   - DOMAIN,bannerpower.com
@@ -8126,7 +8125,6 @@ payload:
   - DOMAIN,flash.sec.intl.miui.com
   - DOMAIN,flash.sec.miui.com
   - DOMAIN,flashcasino.com
-  - DOMAIN,flashdigitals.com
   - DOMAIN,flashipods4free.com
   - DOMAIN,flashmediaportal.com
   - DOMAIN,flashsrealm.com
@@ -9555,7 +9553,6 @@ payload:
   - DOMAIN,harmonyhollow.net
   - DOMAIN,harmonyorgsolutions.com
   - DOMAIN,harrenmedia.com
-  - DOMAIN,harrow.aa978.com
   - DOMAIN,harshita-india.com
   - DOMAIN,harshwhispers.com
   - DOMAIN,hartwigplumbing.com
@@ -10588,7 +10585,6 @@ payload:
   - DOMAIN,jackieszarka.com
   - DOMAIN,jackskins.com
   - DOMAIN,jackthescribbler.com
-  - DOMAIN,jacob.aa978.com
   - DOMAIN,jacobs-dach.com
   - DOMAIN,jaensspa.com
   - DOMAIN,jafiles.net
@@ -11735,7 +11731,6 @@ payload:
   - DOMAIN,luckypure.info
   - DOMAIN,luckys-fashion.com
   - DOMAIN,luckysearch123.com
-  - DOMAIN,luckyshine.info
   - DOMAIN,luckyson0660.com
   - DOMAIN,luckysuccess.info
   - DOMAIN,luckytidy.info
@@ -11779,6 +11774,7 @@ payload:
   - DOMAIN,lzrikate.com
   - DOMAIN,m-vali.cp31.ott.cibntv.net
   - DOMAIN,m.1234567.com.cn
+  - DOMAIN,m.69o1c.cn
   - DOMAIN,m.88viet.com
   - DOMAIN,m.8live.com
   - DOMAIN,m.amtmobi.com
@@ -14213,6 +14209,7 @@ payload:
   - DOMAIN,pingdom.act-on.com
   - DOMAIN,pingfore.soso.com
   - DOMAIN,pinggai5.caixin.com
+  - DOMAIN,pingoli.info
   - DOMAIN,pinsuccess.com
   - DOMAIN,pinuppopup.com
   - DOMAIN,piou.kirkir.xyz
@@ -14367,7 +14364,6 @@ payload:
   - DOMAIN,podzemi.myotis.info
   - DOMAIN,pogodowski.com
   - DOMAIN,pointofviewllc.com
-  - DOMAIN,pointscodesfree.com
   - DOMAIN,pointstackers.com
   - DOMAIN,pokachi.net
   - DOMAIN,pokecoin.freeastuces.com
@@ -15034,7 +15030,6 @@ payload:
   - DOMAIN,randki-sex.com
   - DOMAIN,randomstring.logorder.com
   - DOMAIN,randomwowkey.com
-  - DOMAIN,rangekart.com
   - DOMAIN,rank-master.com
   - DOMAIN,rankinchemicaltech.com
   - DOMAIN,ranking.younetmedia.com
@@ -16523,6 +16518,7 @@ payload:
   - DOMAIN,smillie.000webhostapp.com
   - DOMAIN,smitegemsgiveaway.com
   - DOMAIN,smithwick.net
+  - DOMAIN,smmgigs.com
   - DOMAIN,smmknight.org
   - DOMAIN,smokersblogs.com
   - DOMAIN,smokersopinionpoll.com
@@ -16615,7 +16611,6 @@ payload:
   - DOMAIN,softonic.com
   - DOMAIN,softquotient.com
   - DOMAIN,softserve.8ch.net
-  - DOMAIN,softtor.com
   - DOMAIN,software-accurate5.com
   - DOMAIN,software-archiv.com
   - DOMAIN,software-freee.com
@@ -16676,6 +16671,7 @@ payload:
   - DOMAIN,soujoobafoo.com
   - DOMAIN,soulgaminghacks.com
   - DOMAIN,soulmemory.org
+  - DOMAIN,soulsinsynch.com
   - DOMAIN,sourcelemon.com
   - DOMAIN,sourcengo.com
   - DOMAIN,sourmath.com
@@ -16704,7 +16700,6 @@ payload:
   - DOMAIN,spasswelt.xyz
   - DOMAIN,spcwm.com
   - DOMAIN,spd.atdmt.speedera.net
-  - DOMAIN,spechee.com
   - DOMAIN,special-alerts.com
   - DOMAIN,special-promo.com
   - DOMAIN,specialgifts4me.com
@@ -16842,7 +16837,6 @@ payload:
   - DOMAIN,staging.novaonx.com
   - DOMAIN,staging.stats.miui.com
   - DOMAIN,stairgames.com
-  - DOMAIN,stairliftstrue.com
   - DOMAIN,stakingscrew.com
   - DOMAIN,stakingslope.com
   - DOMAIN,stamplive.com
@@ -17041,7 +17035,6 @@ payload:
   - DOMAIN,stats.livingsocial.com
   - DOMAIN,stats.merriam-webster.com
   - DOMAIN,stats.metacount.com
-  - DOMAIN,stats.millanusa.com
   - DOMAIN,stats.monohost.com
   - DOMAIN,stats.music.xiaomi.com
   - DOMAIN,stats.nextcloud.com

@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-26 02:06:24
+# UPDATED: 2021-07-28 02:06:37
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14518
+# DOMAIN: 14521
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12897
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 295
-# TOTAL: 27897
+# TOTAL: 27900
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -1207,7 +1207,6 @@ adpredictive.com
 adpressi.com
 adpron.com
 adprotected.com
-adprotraffic.com
 adprovi.de
 adpushup.com
 adqic.com
@@ -2028,6 +2027,7 @@ apex-ad.com
 apexcdn.com
 apexstats.com
 apextag.com
+apextwo.com
 aphookkensidah.pro
 aphycolourses.info
 api-ad.kajicam.com
@@ -2103,6 +2103,7 @@ appboy.eu
 appboycdn.com
 appconsent.io
 appendad.com
+applebarq.com
 appn.center
 apportium.com
 approp.pro
@@ -3140,6 +3141,7 @@ canalstat.com
 canddi.com
 candid.zone
 canlytics.com
+cannabislyric.com
 cannabispicture.com
 cannontwin.com
 canoeklix.com
@@ -3445,6 +3447,7 @@ clickequations.net
 clickexperts.net
 clickferret.com
 clickfuse.com
+clickganic.com
 clickgate.biz
 clickguard.com
 clickguardian.co.uk
@@ -3951,6 +3954,7 @@ cryptobara.com
 cryptomine.pro
 cryptonoter.com
 crystalmart.cn
+cs-bailing.com.cn
 cs-feige.iqiyi.com
 cs-op.douyucdn.cn
 cs.celebbusters.com
@@ -6006,7 +6010,6 @@ gostats.pl
 gostats.ro
 gostats.ru
 gostats.vn
-gotagy.com
 gotchosen.com
 gotonav.com
 gotoplaymillion.com
@@ -6183,7 +6186,6 @@ haomm.com
 haosf.com
 haoyangmao.ltd
 haoyiwang.net
-haoyoushuo.cn
 happer.info
 haprjb.com
 haptontnerota.info
@@ -6292,7 +6294,6 @@ hiido.com
 hijack.baidu.com
 hikvar.ru
 hilariouszinc.com
-hillpl.com
 himediads.com
 himediadx.com
 himselves.com
@@ -7087,6 +7088,7 @@ jjk.sxklm.cn
 jjpnveujkk.com
 jl368.cn
 jm1.xiao89.com
+jmait.cn
 jmogo.cn
 jmxphjxsxd.com
 jntmedia.cn
@@ -7343,6 +7345,7 @@ komtrack.com
 kono-research.de
 kontagent.net
 kontextua.com
+koocash.com
 koopei.com
 kopsil.com
 korexo.com
@@ -7764,7 +7767,6 @@ luckyorange.com
 luckyorange.net
 luckypure.info
 luckypushh.com
-luckyshine.info
 luckysuccess.info
 luckytidy.info
 lucretius-ada.com
@@ -7829,6 +7831,7 @@ m.1s8pj.cn
 m.20mao.com
 m.2l06k.cn
 m.5vst8h.cn
+m.69o1c.cn
 m.89kvh.cn
 m.8of9hd.cn
 m.8t5xo.cn
@@ -7901,6 +7904,7 @@ m2pub.com
 m2u.376710.com
 m32.media
 m4clicks.com
+m5prod.net
 m6r.eu
 m73lae5cpmgrv38.com
 mabaya.com
@@ -8164,7 +8168,6 @@ mercury.jd.com
 mercy.ga
 meried.co
 merlin.abc.go.com
-merrymilkfoods.com
 meryjane.pro
 messengerpeople.com
 meta4-group.com
@@ -9549,11 +9552,11 @@ pietexture.com
 pigra.csheaven.com
 pimpmypr.de
 pin.hpplay.cn
-pinballpublishernetwork.com
 ping-fast.com
 pingagenow.com
 pingclock.net
 pingil.com
+pingoli.info
 pingomatic.com
 pingtas.qq.com
 pinpinnet.net
@@ -10408,7 +10411,6 @@ realzeit.io
 reate.info
 rebel.ai
 rec.quartic.pl
-recentres.com
 reciteme.com
 reckinbuttiten.pro
 reclamus.com
@@ -13104,6 +13106,7 @@ usercash.com
 usercentrics.eu
 userdatatrust.com
 userdive.com
+userdmp.com
 userlook.com
 userneeds.dk
 userreplay.net
@@ -13768,7 +13771,6 @@ worldgravity.com
 worldlogger.com
 worldpush.co
 worldsbestcams.com
-worldsearchpro.com
 worldwidemailer.com
 worthathousandwords.com
 worthyadvertising.com
@@ -14495,6 +14497,7 @@ zp0737.com
 zp265.com
 zpjkvuyqxu.com
 zpwqnicvzi.com
+zq-hk.cn
 zq2.leixjun.com
 zqtk.net
 zqzuiomba.com
