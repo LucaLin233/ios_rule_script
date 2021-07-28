@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-28 02:06:36
+# UPDATED: 2021-07-29 02:07:10
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 15001
+# DOMAIN: 14998
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 75952
+# DOMAIN-SUFFIX: 75970
 # IP-CIDR: 241
 # IP-CIDR6: 1
 # URL-REGEX: 301
-# TOTAL: 91584
+# TOTAL: 91599
 0001.2waky.com
 000lk3v.wcomhost.com
 000lkub.rcomhost.com
@@ -2869,6 +2869,7 @@ candycrush.newzgames.com
 candycrushcheat.com
 candycrushcheatzone.com
 canghaisan.com
+cangzhould.com
 cannabisace.com
 cannabislyric.com
 cannabispicture.com
@@ -3719,7 +3720,6 @@ counter.dt07.net
 counter.xeanon.com
 counter.yakbucks.com
 counter.yakcash.com
-counter1.fc2.com
 counterpartstudies.com
 counters.vendio.com
 counterweb.cn
@@ -4691,6 +4691,7 @@ ecommerce.iap.unity3d.com
 ecommercesalessystem.com
 econotoolsinc.com
 ecooenergydtl.com
+ecosmeticscoupons.com
 ecoswiftcleaners.com
 ecotransgas.com
 ecourses.unbounce.com
@@ -6941,6 +6942,7 @@ icloud21.com
 icloudverified.com
 iclwy.xyz
 ico-telegram.org
+iconadserver.com
 iconnect007mail.com
 iconnigeria.com
 icoocash.com
@@ -7996,14 +7998,12 @@ layerpark.com
 laytonhubble.com
 lazy-gamers.com
 lazysusanfoods.com
-lb-floor.com
 lb.production-public.tubi.io
 lb3d.tj.ijinshan.com
 lbcommunicationsinc.com
 lbdata.tj.ijinshan.com
 lc.livefyre.com
 lcd-studio.com
-lcloud-location.com
 ldgateway.com
 ldrtrack.com
 ldzqhq.biz
@@ -9635,7 +9635,6 @@ octopus-prediction.com
 odiabetikah.com
 odieamaka.000webhostapp.com
 odindownload.com
-odiserve.com
 odkrywamyzakryte.com
 odplbueosuzw.com
 odzyskajsnapy.blogspot.com
@@ -9751,6 +9750,7 @@ onlinefileshares.com
 onlinegamecheats.net
 onlinegamesfiles.com
 onlinegameshacks.com
+onlineitdeals.com
 onlineloan-personal.net
 onlinepasswordhacker.com
 onlinerekruter.com
@@ -11436,7 +11436,6 @@ secure.auth.kevinyou.com
 secure.bstlnk.com
 secure.cardtransaction.com
 secure.flashtalking.com.edgekey.net
-secure.livechatinc.com
 secure.marketengines.com
 secure.nicemilfass.com
 secure.sweetasianjuice.com
@@ -11996,7 +11995,6 @@ sofeelindia.com
 soforteinkommen.net
 sofortsexx.com
 soft-hack.net
-soft-program.com
 soft.jbdown.net
 soft4click.com
 softh.blogsky.com
@@ -12037,7 +12035,6 @@ solventra.net
 solvusoft.com
 som.aeroplan.com
 somanidiagnostic.com
-someligeoas.com
 somnoy.com
 sompuserve.com
 sonaliaansh.net
@@ -15761,6 +15758,7 @@ zzz.clickbank.net
 .2016.bkill.net
 .2016.sina.cn
 .2016bobo.cf
+.201767.cn
 .2017img.myxh999.com
 .2018haoyunlai.com
 .20193a.secure-cloud.pro
@@ -16041,6 +16039,7 @@ zzz.clickbank.net
 .3.guidaye.com
 .3.ssqzj.com
 .300ca0d0.space
+.300daytravel.com
 .301848.com
 .301pk.com
 .302a67cac6.com
@@ -26630,6 +26629,7 @@ zzz.clickbank.net
 .au737.com
 .auaop.com
 .auberginises.xyz
+.auchoons.net
 .auctionads.com
 .auctionads.net
 .auctionnudge.com
@@ -26900,6 +26900,7 @@ zzz.clickbank.net
 .awptjmp.com
 .awqsaged.cn
 .awreert.ru
+.awrfds3.pornpapa.com
 .awrz.net
 .aws-ajax.com
 .awsatstb.com
@@ -34114,6 +34115,7 @@ zzz.clickbank.net
 .counter.zerohedge.com
 .counter.zone.ee
 .counter1.bravenet.com
+.counter1.fc2.com
 .counter1.sextracker.be
 .counter10.bravenet.com
 .counter10.sextracker.be
@@ -36429,6 +36431,7 @@ zzz.clickbank.net
 .delegatediscussion.com
 .deletemer.online
 .deliberatelyadvancing.com
+.deliberatelycube.com
 .deliberateporridge.com
 .delidatax.net
 .delightcash.com
@@ -43159,6 +43162,7 @@ zzz.clickbank.net
 .garciaestelles.com
 .gard4mass.com
 .gardoult.com
+.gardourd.com
 .garettygrea.space
 .garm9yuma.com
 .garristo.com
@@ -43845,6 +43849,7 @@ zzz.clickbank.net
 .gifts-flowers-rewardpath.com
 .giga-abs.de
 .gigaads.xyz
+.gigacpmserv.com
 .gigamega.ru
 .gigamega.su
 .gigaonclick.com
@@ -44740,6 +44745,7 @@ zzz.clickbank.net
 .greenxfs.down.123ch.cn
 .greeptax.com
 .greerlies.pro
+.greeter.me
 .greetham.net
 .greetingscompassbough.com
 .greetpanda.info
@@ -45000,6 +45006,7 @@ zzz.clickbank.net
 .guid.tpns.tencent.com
 .guidashu.com
 .guide2poker.com
+.guideserv.cn
 .guiheng.wang
 .guildofangels.net
 .guiltlessbasketball.com
@@ -57618,6 +57625,7 @@ zzz.clickbank.net
 .microad.net
 .microad.vn
 .microadinc.com
+.microanalytics.io
 .microcounter.de
 .microfog.me
 .microlearning.att.com
@@ -59034,6 +59042,7 @@ zzz.clickbank.net
 .mustwaste.com
 .mutary.com
 .mutenessdollyheadlong.com
+.mutilatecoast.com
 .mutinycdn.com
 .mutinyhq.com
 .mutinyhq.io
@@ -71145,6 +71154,7 @@ zzz.clickbank.net
 .secure.info.domo.com
 .secure.info.m.seek.co.nz
 .secure.iqmining.com
+.secure.livechatinc.com
 .secure.medtronicinteract.com
 .secure.merchantadvantage.com
 .secure.mycalcas.com
@@ -77961,6 +77971,7 @@ zzz.clickbank.net
 .t.geedai.com
 .t.h5data.com
 .t.hypers.com.cn
+.t.imgur.com
 .t.indeed.com
 .t.info.rezbine.com
 .t.itsehoitoapteekki.fi
@@ -81780,6 +81791,7 @@ zzz.clickbank.net
 .travel2pic.xyz
 .traveladvertising.com
 .travelhub.com.sg
+.travelingturtleharmonious.com
 .travelinskydream.ga
 .traveller-offer.com
 .traveller-offer.net
@@ -85229,11 +85241,13 @@ zzz.clickbank.net
 .wangmeng.baidu.cn
 .wangmeng.baidu.com
 .wangmeng.sogou.com
+.wangmiao.xyz
 .wangmingsort.cn
 .wangqilin.xyz
 .wangqing7.top
 .wangqipu.com
 .wangsufast.com
+.wangtianci.cn
 .wangxiankang.top
 .wangyouxs.cn
 .wangyuekun.xyz
@@ -88887,6 +88901,7 @@ zzz.clickbank.net
 .xz518.cn
 .xz6d.com
 .xzdchl.com
+.xzhcedu.cn
 .xzhwxfgc.cn
 .xzidjitondzt.com
 .xzipy.com
