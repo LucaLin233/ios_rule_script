@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-19 10:51:49
-# DOMAIN: 20930
+# UPDATED: 2021-08-20 02:08:06
+# DOMAIN: 20924
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 50866
 # IP-CIDR: 244
 # IP-CIDR6: 1
-# TOTAL: 72129
+# TOTAL: 72123
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -480,7 +480,6 @@ payload:
   - '980media.com'
   - '986.stats.misstrends.com'
   - '99-reasons-for-seo.com'
-  - '9990.spqsd.com'
   - '999fitness.com'
   - '999webdesign.com'
   - '99a9339abed56.com'
@@ -2448,6 +2447,7 @@ payload:
   - 'affilate-img-affasi.s3.amazonaws.com'
   - 'affili.dmm.com'
   - 'affiliando.com'
+  - 'affiliate-fr.com'
   - 'affiliate-gate.com'
   - 'affiliate-premium-club.com'
   - 'affiliate.1800flowers.com'
@@ -2813,7 +2813,6 @@ payload:
   - 'amphorasf.com'
   - 'ampmetrics.engadget.com'
   - 'ampmetrics.popsci.com'
-  - 'ampofobrothers.com'
   - 'amritaraichand.com'
   - 'amronail.com'
   - 'amsolarpower.com'
@@ -7249,7 +7248,6 @@ payload:
   - 'dzwiekowe.com'
   - 'dzxxxg6ij9u99.cloudfront.net'
   - 'dzzkqizu.000webhostapp.com'
-  - 'e-bannerx.com'
   - 'e-commerce-seo.com'
   - 'e-debtconsolidation.com'
   - 'e-iphoneunlock.com'
@@ -7480,6 +7478,7 @@ payload:
   - 'ematrix.filmipop.com'
   - 'embed.sendtonews.com'
   - 'embrari-1.cn'
+  - 'emcourses-india.org'
   - 'emediate.apmmedia.net'
   - 'emediate.eu'
   - 'emergenciascomfye.com'
@@ -9864,7 +9863,6 @@ payload:
   - 'hmonghotties.com'
   - 'hmrc-form.com'
   - 'hnskorea.co.kr'
-  - 'hntengyi.com'
   - 'hoatuoidanghoa.com'
   - 'hobbitkomsecrets.com'
   - 'hobbytotaalservice.nl'
@@ -11183,7 +11181,6 @@ payload:
   - 'kingspointhrtraining.com'
   - 'kingstonthepug.com'
   - 'kingstorrent.com'
-  - 'kinoclub.org'
   - 'kinopolet.net'
   - 'kinopushka.xyz'
   - 'kinslate.com'
@@ -11574,7 +11571,6 @@ payload:
   - 'li.walmart.com'
   - 'li.ziffimages.com'
   - 'liabela-liapolis.com'
-  - 'lian-yis.com'
   - 'liarsbar.karoo.net'
   - 'libdgel.net'
   - 'libecki.net'
@@ -11679,6 +11675,7 @@ payload:
   - 'liteautotop.cn'
   - 'litebackup.com'
   - 'litec-fr.com'
+  - 'litefreedom.com'
   - 'literalseduction.net'
   - 'litetopfindworld.cn'
   - 'littlelories.com'
@@ -12542,6 +12539,7 @@ payload:
   - 'miconvalvesindia.com'
   - 'micro-win.com'
   - 'microbizmarketing101.com'
+  - 'microcontroller-cafe.com'
   - 'microparc.com'
   - 'microsoft81.webnode.com'
   - 'microsofto.sytes.net'
@@ -14134,7 +14132,6 @@ payload:
   - 'passport.youzu.com'
   - 'passpport.com'
   - 'password.newzgames.com'
-  - 'password.thishack.org'
   - 'passwordr.com'
   - 'pataraquadbike.com'
   - 'patashala.org'
@@ -14380,7 +14377,6 @@ payload:
   - 'pianotravel.com'
   - 'pic.h0817.com'
   - 'picgf.ppbk9.com'
-  - 'picim.kuaizq.com'
   - 'pickfonts.com'
   - 'piclect.com'
   - 'pics.cnomy.com'
@@ -16688,7 +16684,6 @@ payload:
   - 'slutloadlive.com'
   - 'slutmodel.com'
   - 'sluttube.net'
-  - 'sm.kuaizq.com'
   - 'sm.pcmag.com'
   - 'smailik.org'
   - 'smart-m-system.com'
@@ -18246,7 +18241,6 @@ payload:
   - 'token.adstailor.com'
   - 'tokenswap.org'
   - 'tokentelegram.net'
-  - 'tokogrosirindonesia.com'
   - 'tokolaris.xyz'
   - 'toledolawnsprinklers.com'
   - 'tomalinoalambres.com.ar'

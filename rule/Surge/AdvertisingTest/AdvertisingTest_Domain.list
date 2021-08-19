@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-19 10:51:48
+# UPDATED: 2021-08-20 02:08:04
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 15185
+# DOMAIN: 15180
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 78423
+# DOMAIN-SUFFIX: 78422
 # IP-CIDR: 244
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 94243
+# TOTAL: 94237
 0001.2waky.com
 000lk3v.wcomhost.com
 000lkub.rcomhost.com
@@ -1472,7 +1472,6 @@ amosjoe11.000webhostapp.com
 amphorasf.com
 ampmetrics.engadget.com
 ampmetrics.popsci.com
-ampofobrothers.com
 amritaraichand.com
 amronail.com
 amsolarpower.com
@@ -4688,7 +4687,6 @@ dzmxze7hxwn6b.cloudfront.net
 dzwiekowe.com
 dzxxxg6ij9u99.cloudfront.net
 dzzkqizu.000webhostapp.com
-e-bannerx.com
 e-commerce-seo.com
 e-debtconsolidation.com
 e-iphoneunlock.com
@@ -4872,6 +4870,7 @@ ematrix.filmipop.com
 embed.sendtonews.com
 embeds.tagboard.com.herokudns.com
 embrari-1.cn
+emcourses-india.org
 emergenciascomfye.com
 emergencyactionplan.org
 emerginguniverse.com
@@ -6837,7 +6836,6 @@ hmbgumjgey.com
 hmonghotties.com
 hmrc-form.com
 hnskorea.co.kr
-hntengyi.com
 hoatuoidanghoa.com
 hobbitkomsecrets.com
 hobbytotaalservice.nl
@@ -8210,7 +8208,6 @@ lgorithmsolutions.com
 lgwelding.com
 lhsmidatlantic.com
 liabela-liapolis.com
-lian-yis.com
 liarsbar.karoo.net
 libecki.net
 liberated.org
@@ -8282,6 +8279,7 @@ liteautogreatest.cn
 liteautotop.cn
 litebackup.com
 litec-fr.com
+litefreedom.com
 literalseduction.net
 litetopfindworld.cn
 littlelories.com
@@ -8922,6 +8920,7 @@ michelzappy.com
 mickagain.000webhostapp.com
 miconvalvesindia.com
 microbizmarketing101.com
+microcontroller-cafe.com
 microparc.com
 microsoft81.webnode.com
 microsofto.sytes.net
@@ -10138,7 +10137,6 @@ passionsofmyheart.com
 passport.mobohappy.com
 passport.youzu.com
 password.newzgames.com
-password.thishack.org
 passwordr.com
 pataraquadbike.com
 patashala.org
@@ -10309,7 +10307,6 @@ piano-media.com
 pianotravel.com
 pic.h0817.com
 picgf.ppbk9.com
-picim.kuaizq.com
 pickfonts.com
 piclect.com
 pics.kolmic.com
@@ -12049,7 +12046,6 @@ slutcorner.com
 slutloadlive.com
 slutmodel.com
 sluttube.net
-sm.kuaizq.com
 sm.pcmag.com
 smailik.org
 smart-m-system.com
@@ -13218,7 +13214,6 @@ tohacks.com
 token.adstailor.com
 tokenswap.org
 tokentelegram.net
-tokogrosirindonesia.com
 tokolaris.xyz
 toledolawnsprinklers.com
 tomalinoalambres.com.ar
@@ -37285,7 +37280,6 @@ zzz.clickbank.net
 .df.mmo001.info
 .df.pmweb.com.br
 .df0pmigc8xs70.cloudfront.net
-.df31417d2d.com
 .df3n43m.com
 .df63de4ef399b.com
 .df666.pzhttaax.cn

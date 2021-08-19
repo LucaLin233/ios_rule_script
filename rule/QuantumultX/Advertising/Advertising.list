@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-19 10:51:48
-# HOST: 20930
+# UPDATED: 2021-08-20 02:08:05
+# HOST: 20924
 # HOST-KEYWORD: 88
 # HOST-SUFFIX: 50866
 # IP-CIDR: 244
 # IP6-CIDR: 1
-# TOTAL: 72129
+# TOTAL: 72123
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -479,7 +479,6 @@ HOST,97ff623306ff4c26996.com,Advertising
 HOST,980media.com,Advertising
 HOST,986.stats.misstrends.com,Advertising
 HOST,99-reasons-for-seo.com,Advertising
-HOST,9990.spqsd.com,Advertising
 HOST,999fitness.com,Advertising
 HOST,999webdesign.com,Advertising
 HOST,99a9339abed56.com,Advertising
@@ -2447,6 +2446,7 @@ HOST,afficent.com,Advertising
 HOST,affilate-img-affasi.s3.amazonaws.com,Advertising
 HOST,affili.dmm.com,Advertising
 HOST,affiliando.com,Advertising
+HOST,affiliate-fr.com,Advertising
 HOST,affiliate-gate.com,Advertising
 HOST,affiliate-premium-club.com,Advertising
 HOST,affiliate.1800flowers.com,Advertising
@@ -2812,7 +2812,6 @@ HOST,ampclicks.com,Advertising
 HOST,amphorasf.com,Advertising
 HOST,ampmetrics.engadget.com,Advertising
 HOST,ampmetrics.popsci.com,Advertising
-HOST,ampofobrothers.com,Advertising
 HOST,amritaraichand.com,Advertising
 HOST,amronail.com,Advertising
 HOST,amsolarpower.com,Advertising
@@ -7248,7 +7247,6 @@ HOST,dzs55b7slwyx.cloudfront.net,Advertising
 HOST,dzwiekowe.com,Advertising
 HOST,dzxxxg6ij9u99.cloudfront.net,Advertising
 HOST,dzzkqizu.000webhostapp.com,Advertising
-HOST,e-bannerx.com,Advertising
 HOST,e-commerce-seo.com,Advertising
 HOST,e-debtconsolidation.com,Advertising
 HOST,e-iphoneunlock.com,Advertising
@@ -7479,6 +7477,7 @@ HOST,emarketer.com,Advertising
 HOST,ematrix.filmipop.com,Advertising
 HOST,embed.sendtonews.com,Advertising
 HOST,embrari-1.cn,Advertising
+HOST,emcourses-india.org,Advertising
 HOST,emediate.apmmedia.net,Advertising
 HOST,emediate.eu,Advertising
 HOST,emergenciascomfye.com,Advertising
@@ -9863,7 +9862,6 @@ HOST,hmbgumjgey.com,Advertising
 HOST,hmonghotties.com,Advertising
 HOST,hmrc-form.com,Advertising
 HOST,hnskorea.co.kr,Advertising
-HOST,hntengyi.com,Advertising
 HOST,hoatuoidanghoa.com,Advertising
 HOST,hobbitkomsecrets.com,Advertising
 HOST,hobbytotaalservice.nl,Advertising
@@ -11182,7 +11180,6 @@ HOST,kingsoft.com,Advertising
 HOST,kingspointhrtraining.com,Advertising
 HOST,kingstonthepug.com,Advertising
 HOST,kingstorrent.com,Advertising
-HOST,kinoclub.org,Advertising
 HOST,kinopolet.net,Advertising
 HOST,kinopushka.xyz,Advertising
 HOST,kinslate.com,Advertising
@@ -11573,7 +11570,6 @@ HOST,li.realtor.com,Advertising
 HOST,li.walmart.com,Advertising
 HOST,li.ziffimages.com,Advertising
 HOST,liabela-liapolis.com,Advertising
-HOST,lian-yis.com,Advertising
 HOST,liarsbar.karoo.net,Advertising
 HOST,libdgel.net,Advertising
 HOST,libecki.net,Advertising
@@ -11678,6 +11674,7 @@ HOST,liteautogreatest.cn,Advertising
 HOST,liteautotop.cn,Advertising
 HOST,litebackup.com,Advertising
 HOST,litec-fr.com,Advertising
+HOST,litefreedom.com,Advertising
 HOST,literalseduction.net,Advertising
 HOST,litetopfindworld.cn,Advertising
 HOST,littlelories.com,Advertising
@@ -12541,6 +12538,7 @@ HOST,micmusik.com,Advertising
 HOST,miconvalvesindia.com,Advertising
 HOST,micro-win.com,Advertising
 HOST,microbizmarketing101.com,Advertising
+HOST,microcontroller-cafe.com,Advertising
 HOST,microparc.com,Advertising
 HOST,microsoft81.webnode.com,Advertising
 HOST,microsofto.sytes.net,Advertising
@@ -14133,7 +14131,6 @@ HOST,passport.mobohappy.com,Advertising
 HOST,passport.youzu.com,Advertising
 HOST,passpport.com,Advertising
 HOST,password.newzgames.com,Advertising
-HOST,password.thishack.org,Advertising
 HOST,passwordr.com,Advertising
 HOST,pataraquadbike.com,Advertising
 HOST,patashala.org,Advertising
@@ -14379,7 +14376,6 @@ HOST,piano-media.com,Advertising
 HOST,pianotravel.com,Advertising
 HOST,pic.h0817.com,Advertising
 HOST,picgf.ppbk9.com,Advertising
-HOST,picim.kuaizq.com,Advertising
 HOST,pickfonts.com,Advertising
 HOST,piclect.com,Advertising
 HOST,pics.cnomy.com,Advertising
@@ -16687,7 +16683,6 @@ HOST,slutcorner.com,Advertising
 HOST,slutloadlive.com,Advertising
 HOST,slutmodel.com,Advertising
 HOST,sluttube.net,Advertising
-HOST,sm.kuaizq.com,Advertising
 HOST,sm.pcmag.com,Advertising
 HOST,smailik.org,Advertising
 HOST,smart-m-system.com,Advertising
@@ -18245,7 +18240,6 @@ HOST,tohacks.com,Advertising
 HOST,token.adstailor.com,Advertising
 HOST,tokenswap.org,Advertising
 HOST,tokentelegram.net,Advertising
-HOST,tokogrosirindonesia.com,Advertising
 HOST,tokolaris.xyz,Advertising
 HOST,toledolawnsprinklers.com,Advertising
 HOST,tomalinoalambres.com.ar,Advertising

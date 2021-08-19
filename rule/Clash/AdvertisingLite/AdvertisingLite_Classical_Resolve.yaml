@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-19 10:51:49
-# DOMAIN: 14532
+# UPDATED: 2021-08-20 02:08:06
+# DOMAIN: 14530
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 13222
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27941
+# TOTAL: 27939
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -18,6 +18,7 @@ payload:
   - DOMAIN,012.tw
   - DOMAIN,0123kjz.com
   - DOMAIN,012469af389a1d1246d.com
+  - DOMAIN,020wujin.cn
   - DOMAIN,02aa19117f396e9.com
   - DOMAIN,033.com
   - DOMAIN,039ad0897e6da.com
@@ -956,6 +957,7 @@ payload:
   - DOMAIN,adenc.co.kr
   - DOMAIN,adengage.com
   - DOMAIN,adentifi.com
+  - DOMAIN,adeq.hiidc.com.cn
   - DOMAIN,adespresso.com
   - DOMAIN,adexc.net
   - DOMAIN,adexchange.io
@@ -4664,7 +4666,6 @@ payload:
   - DOMAIN,domainbuyingservices.com
   - DOMAIN,domainsponsor.com
   - DOMAIN,domdex.com
-  - DOMAIN,dominoad.com
   - DOMAIN,dominocounter.net
   - DOMAIN,domodomain.com
   - DOMAIN,domslc.com
@@ -6111,7 +6112,6 @@ payload:
   - DOMAIN,gtop.ro
   - DOMAIN,gtopstats.com
   - DOMAIN,gts-ads.twistbox.com
-  - DOMAIN,gtsads.com
   - DOMAIN,gu-pix.appspot.com
   - DOMAIN,guanoo.net
   - DOMAIN,guardiandigitalcomparison.co.uk
@@ -8341,7 +8341,6 @@ payload:
   - DOMAIN,mob26.jnjszl.com
   - DOMAIN,mobalives.com
   - DOMAIN,mobappconfig.securities.eastmoney.com
-  - DOMAIN,mobatori.com
   - DOMAIN,mobday.com
   - DOMAIN,mobgold.com
   - DOMAIN,mobicont.com
@@ -9003,7 +9002,6 @@ payload:
   - DOMAIN,oconner.biz
   - DOMAIN,ocpersian.com
   - DOMAIN,octavius.rocks
-  - DOMAIN,octomarket.com
   - DOMAIN,octopart-analytics.com
   - DOMAIN,octophor.com
   - DOMAIN,octopuspop.com
@@ -13977,7 +13975,6 @@ payload:
   - DOMAIN,www.petpleasers.ca
   - DOMAIN,www.pflexads.com
   - DOMAIN,www.pgathailand.com
-  - DOMAIN,www.pj38330.bet
   - DOMAIN,www.pj39330.bet
   - DOMAIN,www.predictivadvertising.com
   - DOMAIN,www.professionalblackbook.com
@@ -14214,6 +14211,7 @@ payload:
   - DOMAIN,xxxmyself.com
   - DOMAIN,xxxoh.com
   - DOMAIN,xxxvipporno.com
+  - DOMAIN,xxxwebtraffic.com
   - DOMAIN,xy.nullrefexcep.com
   - DOMAIN,xyoss.g.com.cn
   - DOMAIN,xywdvhd.com

@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-19 10:51:50
-# DOMAIN: 15185
+# UPDATED: 2021-08-20 02:08:07
+# DOMAIN: 15180
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 78423
+# DOMAIN-SUFFIX: 78422
 # IP-CIDR: 244
 # IP-CIDR6: 1
-# TOTAL: 93941
+# TOTAL: 93935
 payload:
   - DOMAIN,0001.2waky.com
   - DOMAIN,000lk3v.wcomhost.com
@@ -1471,7 +1471,6 @@ payload:
   - DOMAIN,amphorasf.com
   - DOMAIN,ampmetrics.engadget.com
   - DOMAIN,ampmetrics.popsci.com
-  - DOMAIN,ampofobrothers.com
   - DOMAIN,amritaraichand.com
   - DOMAIN,amronail.com
   - DOMAIN,amsolarpower.com
@@ -4687,7 +4686,6 @@ payload:
   - DOMAIN,dzwiekowe.com
   - DOMAIN,dzxxxg6ij9u99.cloudfront.net
   - DOMAIN,dzzkqizu.000webhostapp.com
-  - DOMAIN,e-bannerx.com
   - DOMAIN,e-commerce-seo.com
   - DOMAIN,e-debtconsolidation.com
   - DOMAIN,e-iphoneunlock.com
@@ -4871,6 +4869,7 @@ payload:
   - DOMAIN,embed.sendtonews.com
   - DOMAIN,embeds.tagboard.com.herokudns.com
   - DOMAIN,embrari-1.cn
+  - DOMAIN,emcourses-india.org
   - DOMAIN,emergenciascomfye.com
   - DOMAIN,emergencyactionplan.org
   - DOMAIN,emerginguniverse.com
@@ -6836,7 +6835,6 @@ payload:
   - DOMAIN,hmonghotties.com
   - DOMAIN,hmrc-form.com
   - DOMAIN,hnskorea.co.kr
-  - DOMAIN,hntengyi.com
   - DOMAIN,hoatuoidanghoa.com
   - DOMAIN,hobbitkomsecrets.com
   - DOMAIN,hobbytotaalservice.nl
@@ -8209,7 +8207,6 @@ payload:
   - DOMAIN,lgwelding.com
   - DOMAIN,lhsmidatlantic.com
   - DOMAIN,liabela-liapolis.com
-  - DOMAIN,lian-yis.com
   - DOMAIN,liarsbar.karoo.net
   - DOMAIN,libecki.net
   - DOMAIN,liberated.org
@@ -8281,6 +8278,7 @@ payload:
   - DOMAIN,liteautotop.cn
   - DOMAIN,litebackup.com
   - DOMAIN,litec-fr.com
+  - DOMAIN,litefreedom.com
   - DOMAIN,literalseduction.net
   - DOMAIN,litetopfindworld.cn
   - DOMAIN,littlelories.com
@@ -8921,6 +8919,7 @@ payload:
   - DOMAIN,mickagain.000webhostapp.com
   - DOMAIN,miconvalvesindia.com
   - DOMAIN,microbizmarketing101.com
+  - DOMAIN,microcontroller-cafe.com
   - DOMAIN,microparc.com
   - DOMAIN,microsoft81.webnode.com
   - DOMAIN,microsofto.sytes.net
@@ -10137,7 +10136,6 @@ payload:
   - DOMAIN,passport.mobohappy.com
   - DOMAIN,passport.youzu.com
   - DOMAIN,password.newzgames.com
-  - DOMAIN,password.thishack.org
   - DOMAIN,passwordr.com
   - DOMAIN,pataraquadbike.com
   - DOMAIN,patashala.org
@@ -10308,7 +10306,6 @@ payload:
   - DOMAIN,pianotravel.com
   - DOMAIN,pic.h0817.com
   - DOMAIN,picgf.ppbk9.com
-  - DOMAIN,picim.kuaizq.com
   - DOMAIN,pickfonts.com
   - DOMAIN,piclect.com
   - DOMAIN,pics.kolmic.com
@@ -12048,7 +12045,6 @@ payload:
   - DOMAIN,slutloadlive.com
   - DOMAIN,slutmodel.com
   - DOMAIN,sluttube.net
-  - DOMAIN,sm.kuaizq.com
   - DOMAIN,sm.pcmag.com
   - DOMAIN,smailik.org
   - DOMAIN,smart-m-system.com
@@ -13217,7 +13213,6 @@ payload:
   - DOMAIN,token.adstailor.com
   - DOMAIN,tokenswap.org
   - DOMAIN,tokentelegram.net
-  - DOMAIN,tokogrosirindonesia.com
   - DOMAIN,tokolaris.xyz
   - DOMAIN,toledolawnsprinklers.com
   - DOMAIN,tomalinoalambres.com.ar
@@ -37284,7 +37279,6 @@ payload:
   - DOMAIN-SUFFIX,df.mmo001.info
   - DOMAIN-SUFFIX,df.pmweb.com.br
   - DOMAIN-SUFFIX,df0pmigc8xs70.cloudfront.net
-  - DOMAIN-SUFFIX,df31417d2d.com
   - DOMAIN-SUFFIX,df3n43m.com
   - DOMAIN-SUFFIX,df63de4ef399b.com
   - DOMAIN-SUFFIX,df666.pzhttaax.cn

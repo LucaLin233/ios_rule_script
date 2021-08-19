@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-19 10:51:48
-# HOST: 15185
+# UPDATED: 2021-08-20 02:08:05
+# HOST: 15180
 # HOST-KEYWORD: 88
-# HOST-SUFFIX: 78423
+# HOST-SUFFIX: 78422
 # IP-CIDR: 244
 # IP6-CIDR: 1
-# TOTAL: 93941
+# TOTAL: 93935
 HOST,0001.2waky.com,AdvertisingTest
 HOST,000lk3v.wcomhost.com,AdvertisingTest
 HOST,000lkub.rcomhost.com,AdvertisingTest
@@ -1470,7 +1470,6 @@ HOST,amosjoe11.000webhostapp.com,AdvertisingTest
 HOST,amphorasf.com,AdvertisingTest
 HOST,ampmetrics.engadget.com,AdvertisingTest
 HOST,ampmetrics.popsci.com,AdvertisingTest
-HOST,ampofobrothers.com,AdvertisingTest
 HOST,amritaraichand.com,AdvertisingTest
 HOST,amronail.com,AdvertisingTest
 HOST,amsolarpower.com,AdvertisingTest
@@ -4686,7 +4685,6 @@ HOST,dzmxze7hxwn6b.cloudfront.net,AdvertisingTest
 HOST,dzwiekowe.com,AdvertisingTest
 HOST,dzxxxg6ij9u99.cloudfront.net,AdvertisingTest
 HOST,dzzkqizu.000webhostapp.com,AdvertisingTest
-HOST,e-bannerx.com,AdvertisingTest
 HOST,e-commerce-seo.com,AdvertisingTest
 HOST,e-debtconsolidation.com,AdvertisingTest
 HOST,e-iphoneunlock.com,AdvertisingTest
@@ -4870,6 +4868,7 @@ HOST,ematrix.filmipop.com,AdvertisingTest
 HOST,embed.sendtonews.com,AdvertisingTest
 HOST,embeds.tagboard.com.herokudns.com,AdvertisingTest
 HOST,embrari-1.cn,AdvertisingTest
+HOST,emcourses-india.org,AdvertisingTest
 HOST,emergenciascomfye.com,AdvertisingTest
 HOST,emergencyactionplan.org,AdvertisingTest
 HOST,emerginguniverse.com,AdvertisingTest
@@ -6835,7 +6834,6 @@ HOST,hmbgumjgey.com,AdvertisingTest
 HOST,hmonghotties.com,AdvertisingTest
 HOST,hmrc-form.com,AdvertisingTest
 HOST,hnskorea.co.kr,AdvertisingTest
-HOST,hntengyi.com,AdvertisingTest
 HOST,hoatuoidanghoa.com,AdvertisingTest
 HOST,hobbitkomsecrets.com,AdvertisingTest
 HOST,hobbytotaalservice.nl,AdvertisingTest
@@ -8208,7 +8206,6 @@ HOST,lgorithmsolutions.com,AdvertisingTest
 HOST,lgwelding.com,AdvertisingTest
 HOST,lhsmidatlantic.com,AdvertisingTest
 HOST,liabela-liapolis.com,AdvertisingTest
-HOST,lian-yis.com,AdvertisingTest
 HOST,liarsbar.karoo.net,AdvertisingTest
 HOST,libecki.net,AdvertisingTest
 HOST,liberated.org,AdvertisingTest
@@ -8280,6 +8277,7 @@ HOST,liteautogreatest.cn,AdvertisingTest
 HOST,liteautotop.cn,AdvertisingTest
 HOST,litebackup.com,AdvertisingTest
 HOST,litec-fr.com,AdvertisingTest
+HOST,litefreedom.com,AdvertisingTest
 HOST,literalseduction.net,AdvertisingTest
 HOST,litetopfindworld.cn,AdvertisingTest
 HOST,littlelories.com,AdvertisingTest
@@ -8920,6 +8918,7 @@ HOST,michelzappy.com,AdvertisingTest
 HOST,mickagain.000webhostapp.com,AdvertisingTest
 HOST,miconvalvesindia.com,AdvertisingTest
 HOST,microbizmarketing101.com,AdvertisingTest
+HOST,microcontroller-cafe.com,AdvertisingTest
 HOST,microparc.com,AdvertisingTest
 HOST,microsoft81.webnode.com,AdvertisingTest
 HOST,microsofto.sytes.net,AdvertisingTest
@@ -10136,7 +10135,6 @@ HOST,passionsofmyheart.com,AdvertisingTest
 HOST,passport.mobohappy.com,AdvertisingTest
 HOST,passport.youzu.com,AdvertisingTest
 HOST,password.newzgames.com,AdvertisingTest
-HOST,password.thishack.org,AdvertisingTest
 HOST,passwordr.com,AdvertisingTest
 HOST,pataraquadbike.com,AdvertisingTest
 HOST,patashala.org,AdvertisingTest
@@ -10307,7 +10305,6 @@ HOST,piano-media.com,AdvertisingTest
 HOST,pianotravel.com,AdvertisingTest
 HOST,pic.h0817.com,AdvertisingTest
 HOST,picgf.ppbk9.com,AdvertisingTest
-HOST,picim.kuaizq.com,AdvertisingTest
 HOST,pickfonts.com,AdvertisingTest
 HOST,piclect.com,AdvertisingTest
 HOST,pics.kolmic.com,AdvertisingTest
@@ -12047,7 +12044,6 @@ HOST,slutcorner.com,AdvertisingTest
 HOST,slutloadlive.com,AdvertisingTest
 HOST,slutmodel.com,AdvertisingTest
 HOST,sluttube.net,AdvertisingTest
-HOST,sm.kuaizq.com,AdvertisingTest
 HOST,sm.pcmag.com,AdvertisingTest
 HOST,smailik.org,AdvertisingTest
 HOST,smart-m-system.com,AdvertisingTest
@@ -13216,7 +13212,6 @@ HOST,tohacks.com,AdvertisingTest
 HOST,token.adstailor.com,AdvertisingTest
 HOST,tokenswap.org,AdvertisingTest
 HOST,tokentelegram.net,AdvertisingTest
-HOST,tokogrosirindonesia.com,AdvertisingTest
 HOST,tokolaris.xyz,AdvertisingTest
 HOST,toledolawnsprinklers.com,AdvertisingTest
 HOST,tomalinoalambres.com.ar,AdvertisingTest
@@ -37283,7 +37278,6 @@ HOST-SUFFIX,df-srv.de,AdvertisingTest
 HOST-SUFFIX,df.mmo001.info,AdvertisingTest
 HOST-SUFFIX,df.pmweb.com.br,AdvertisingTest
 HOST-SUFFIX,df0pmigc8xs70.cloudfront.net,AdvertisingTest
-HOST-SUFFIX,df31417d2d.com,AdvertisingTest
 HOST-SUFFIX,df3n43m.com,AdvertisingTest
 HOST-SUFFIX,df63de4ef399b.com,AdvertisingTest
 HOST-SUFFIX,df666.pzhttaax.cn,AdvertisingTest

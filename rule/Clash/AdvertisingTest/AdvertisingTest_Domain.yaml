@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-19 10:51:49
-# DOMAIN: 15185
+# UPDATED: 2021-08-20 02:08:07
+# DOMAIN: 15180
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 78423
+# DOMAIN-SUFFIX: 78422
 # IP-CIDR: 244
 # IP-CIDR6: 1
-# TOTAL: 93941
+# TOTAL: 93935
 payload:
   - '0001.2waky.com'
   - '000lk3v.wcomhost.com'
@@ -1471,7 +1471,6 @@ payload:
   - 'amphorasf.com'
   - 'ampmetrics.engadget.com'
   - 'ampmetrics.popsci.com'
-  - 'ampofobrothers.com'
   - 'amritaraichand.com'
   - 'amronail.com'
   - 'amsolarpower.com'
@@ -4687,7 +4686,6 @@ payload:
   - 'dzwiekowe.com'
   - 'dzxxxg6ij9u99.cloudfront.net'
   - 'dzzkqizu.000webhostapp.com'
-  - 'e-bannerx.com'
   - 'e-commerce-seo.com'
   - 'e-debtconsolidation.com'
   - 'e-iphoneunlock.com'
@@ -4871,6 +4869,7 @@ payload:
   - 'embed.sendtonews.com'
   - 'embeds.tagboard.com.herokudns.com'
   - 'embrari-1.cn'
+  - 'emcourses-india.org'
   - 'emergenciascomfye.com'
   - 'emergencyactionplan.org'
   - 'emerginguniverse.com'
@@ -6836,7 +6835,6 @@ payload:
   - 'hmonghotties.com'
   - 'hmrc-form.com'
   - 'hnskorea.co.kr'
-  - 'hntengyi.com'
   - 'hoatuoidanghoa.com'
   - 'hobbitkomsecrets.com'
   - 'hobbytotaalservice.nl'
@@ -8209,7 +8207,6 @@ payload:
   - 'lgwelding.com'
   - 'lhsmidatlantic.com'
   - 'liabela-liapolis.com'
-  - 'lian-yis.com'
   - 'liarsbar.karoo.net'
   - 'libecki.net'
   - 'liberated.org'
@@ -8281,6 +8278,7 @@ payload:
   - 'liteautotop.cn'
   - 'litebackup.com'
   - 'litec-fr.com'
+  - 'litefreedom.com'
   - 'literalseduction.net'
   - 'litetopfindworld.cn'
   - 'littlelories.com'
@@ -8921,6 +8919,7 @@ payload:
   - 'mickagain.000webhostapp.com'
   - 'miconvalvesindia.com'
   - 'microbizmarketing101.com'
+  - 'microcontroller-cafe.com'
   - 'microparc.com'
   - 'microsoft81.webnode.com'
   - 'microsofto.sytes.net'
@@ -10137,7 +10136,6 @@ payload:
   - 'passport.mobohappy.com'
   - 'passport.youzu.com'
   - 'password.newzgames.com'
-  - 'password.thishack.org'
   - 'passwordr.com'
   - 'pataraquadbike.com'
   - 'patashala.org'
@@ -10308,7 +10306,6 @@ payload:
   - 'pianotravel.com'
   - 'pic.h0817.com'
   - 'picgf.ppbk9.com'
-  - 'picim.kuaizq.com'
   - 'pickfonts.com'
   - 'piclect.com'
   - 'pics.kolmic.com'
@@ -12048,7 +12045,6 @@ payload:
   - 'slutloadlive.com'
   - 'slutmodel.com'
   - 'sluttube.net'
-  - 'sm.kuaizq.com'
   - 'sm.pcmag.com'
   - 'smailik.org'
   - 'smart-m-system.com'
@@ -13217,7 +13213,6 @@ payload:
   - 'token.adstailor.com'
   - 'tokenswap.org'
   - 'tokentelegram.net'
-  - 'tokogrosirindonesia.com'
   - 'tokolaris.xyz'
   - 'toledolawnsprinklers.com'
   - 'tomalinoalambres.com.ar'
@@ -37284,7 +37279,6 @@ payload:
   - '.df.mmo001.info'
   - '.df.pmweb.com.br'
   - '.df0pmigc8xs70.cloudfront.net'
-  - '.df31417d2d.com'
   - '.df3n43m.com'
   - '.df63de4ef399b.com'
   - '.df666.pzhttaax.cn'
